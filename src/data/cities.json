@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Moscow",
+      "population": 12692466,
+      "photo": "https://source.unsplash.com/1600x900/?moscow",
+      "country": "Russia"
+    },
+    {
+      "name": "Tokyo",
+      "population": 37435192,
+      "photo": "https://source.unsplash.com/1600x900/?tokyo",
+      "country": "Japan"
+    },
+    // и так далее...
+  ]
+  
